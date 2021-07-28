@@ -1,0 +1,1 @@
+let displayMenu = ()=> document.querySelector('nav ul').style = 'display:flex'
